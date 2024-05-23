@@ -89,6 +89,8 @@ apt-get install -y nano
 nano /usr/share/nginx/html/index.html
 ```
 Далее меняем по желанию.  
+![Снимок](https://github.com/Clover136/DOCKER/assets/148867684/2f5b232c-7555-4227-9214-cb6cc9fc0c46)
+
 
 ---
 
